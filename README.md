@@ -1,9 +1,9 @@
-# Basic Project
-## Basic Project Structure
+# Fundamentals Project
+## Fundamental Concepts
 
-*Default Structure for A Basic Project*
+*Java application to cover core fundamental concepts.*
 
-**Java 7**
+**Java 8**
 
 * Maven
 * JUnit 4
